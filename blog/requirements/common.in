@@ -1,0 +1,15 @@
+flask
+flask-bootstrap
+flask-wtf
+flask-moment
+flask-mail
+flask-pw
+flask-login
+flask-pagedown
+flask-httpauth
+markdown
+bleach
+ipython
+matplotlib
+requests
+pip-tools
